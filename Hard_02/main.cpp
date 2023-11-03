@@ -5,6 +5,7 @@
 #include <algorithm>
 #include <numeric>
 #include <ctime>
+
 using namespace std;
 //---------------------Функции и Прототипы---------------------------------------
 
